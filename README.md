@@ -10,11 +10,18 @@ I have *absolutely* no idea what to write, but here I go.
 * Looking at cat pics
 * Watching anime
 
-`printf("Hello World, lol");`
+```
+#include<stdio.h>
+
+void main()
+{
+    printf("Hello World, lol");
+}
+```
 
 Book Name | Author
 -----|----- 
-Harry Potter and the Philosopher's Stone|J.K.Rowling
-
+And Then There Were None|Agatha Christie
+Dark Matter|Blake Crouch
 # Socials
 [Anilist](https://anilist.co/user/Christina02/)
